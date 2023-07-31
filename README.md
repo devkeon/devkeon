@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Keon&fontSize=70&fontAlignY=40" />
 
 
-![IJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+ <img src="https://img.shields.io/badge/IntelliJ%IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white"/>
 
 <!--
 **devkeon/devkeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
