@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Keon&fontSize=70&fontAlignY=40" />
 
-
+#Skills
+###
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lune0410k)](https://solved.ac/lune0410k)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lune0410k)](https://solved.ac/lune0410k)
 
 <!--
 **devkeon/devkeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
