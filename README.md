@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Keon&fontSize=70&fontAlignY=40" />
 
 
- <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-![Java](https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=Java&logoColor=white)
-
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lune0410k)](https://solved.ac/lune0410k)
 <!--
 **devkeon/devkeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
