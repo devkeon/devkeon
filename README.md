@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Keon&fontSize=70&fontAlignY=40" />
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Keon&fontSize=70&fontAlignY=40" />
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lune0410k)](https://solved.ac/lune0410k)
 
