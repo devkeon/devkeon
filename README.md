@@ -2,32 +2,48 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:81F7F3,100:E6E6E6&height=200&section=header&text=Keon&fontSize=70&fontAlignY=40&fontColor=424242" />
 
-![devkeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkeon&show_icons=true&hide=stars&border_radius=9&title_color=424242&bg_color=E6E6E6) [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lune0410k)](https://solved.ac/lune0410k)
-
-
 <div align="start">
+
+[//]: # (1. [About me &#40;소개&#41;]&#40;#-about-me&#41;)
+
+[//]: # (2. [Projects &#40;프로젝트 수행 내역&#41;]&#40;#-projects&#41;)
+
+[//]: # (3. [Activities &#40;활동 내역&#41;]&#40;#-activities&#41;)
+
+[//]: # (4. [Certificates &#40;자격 사항&#41;]&#40;#-certificates&#41;)
+
+[//]: # (5. [Skills &#40;기술 스택&#41;]&#40;#-skills&#41;)
 
 ## 🦁 About me
 > 안녕하세요. 컴퓨터정보공학을 전공하고 있는 **소프트웨어 개발자 이 건** 입니다.   
 > **Back-end Engineering**과 **Data Engineering**에 관심이 많습니다.   
-> 의견을 나누고 좋은 코드를 만들어 나가는 것을 즐깁니다.   
+> 의견을 나누고 좋은 코드를 만들어 나가는 것을 즐깁니다.
 
 > Hello, I'm **Keon Lee**, a software developer majoring in Computer Science And Information Engineering.    
 > I'm interested in **Back-end Engineering** and **Data Engineering**.   
 > I enjoy sharing opinions and making good codes.
-> 
+
+</div>
+
+<br>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lune0410k)](https://solved.ac/lune0410k) ![devkeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkeon&show_icons=true&hide=stars&border_radius=9&title_color=424242&bg_color=E6E6E6)
+
+<div align="start">
+
 
 ## 🚀 Projects
-| 활동명                                      | 기간                | 역할                            | 링크                                                                                                                   | 비고                   |
-|------------------------------------------|-------------------|-------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------|
-| SK그룹 DEVOCEAN 개선 프로젝트                    | 2024.08 ~ 2024.09 | Backend Engineer              | **외부공개불가** <br> **Private**                                                                                          | SKT 기업 연계 프로젝트       |
-| 산책 기록 서비스 <br> 구미당 프로젝트                  | 2024.07 ~         | Backend Engineer              | [Server](https://github.com/devkeon/gummy-dang)                                                                      | 멋쟁이사자처럼12기 해커톤 참여    |
-| 원격 줄서기 서비스 <br> 라인업 프로젝트                 | 2024.04 ~ 2024.06 | Backend Engineer, Team Leader | [Server](https://github.com/Team-Blossom-devs/line-up-backend)                                                       | 가톨릭대학교 에너지환경공학과 납품   |
-| 날씨 제공 할일 기록 서비스 <br> Todo 프로젝트           | 2024.05 ~ 2024.06 | Full Stack Engineer           | [Server](https://github.com/devkeon/todo-project)                                                                    | 객체지향패러다임 수업 수행 프로젝트  |
-| 중고 물품 대여 플랫폼 <br> 쉐어릿 프로젝트               | 2024.03 ~ 2024.06 | Backend Engineer              | [Server](https://github.com/share-it-cuk/share-it-backend)                                                           | 종합설계프로젝트1 수업 수행 프로젝트 |
-| SNS 기반 목표 달성 서비스 <br> 하루로그 프로젝트          | 2024.01 ~ 2024.02 | Backend Engineer, Team Leader | [Server](https://github.com/Haru-Log/harulog_server_dev) <br> [K8S](https://github.com/Haru-Log/dkos_deployment_ops) | Kakao 기업 연계 프로젝트     |
-| Web IDE 기반 알고리즘 문제 풀이 서비스 <br> 코드진스 프로젝트 | 2023.12 ~ 2023.12 | Backend Engineer, Team Leader | [Server](https://github.com/GoormJeans/WebIDE_Backend)                                                               |                      |
+| 활동명                                      | 기간                | 역할                                 | 링크                                                                                                                 | 비고                   |
+|------------------------------------------|-------------------|------------------------------------|--------------------------------------------------------------------------------------------------------------------|----------------------|
+| SK그룹 DEVOCEAN 개선 프로젝트                    | 2024.08 ~ 2024.09 | Backend Engineer                   | **공개불가** <br> **Private**                                                                                          | SKT 기업 연계 프로젝트       |
+| 산책 기록 서비스 <br> 구미당 프로젝트                  | 2024.07 ~         | Backend Engineer                   | [Server](https://github.com/devkeon/gummy-dang)                                                                    | 멋쟁이사자처럼12기 해커톤 참여    |
+| 날씨 제공 할일 기록 서비스 <br> Todo 프로젝트           | 2024.05 ~ 2024.06 | Full Stack Engineer                | [Server](https://github.com/devkeon/todo-project)                                                                  | 객체지향패러다임 수업 수행 프로젝트  |
+| 원격 줄서기 서비스 <br> 라인업 프로젝트                 | 2024.04 ~ 2024.06 | Backend Engineer, <br> Team Leader | [Server](https://github.com/Team-Blossom-devs/line-up-backend)                                                     | 가톨릭대학교 에너지환경공학과 납품   |
+| 중고 물품 대여 플랫폼 <br> 쉐어릿 프로젝트               | 2024.03 ~ 2024.06 | Backend Engineer                   | [Server](https://github.com/share-it-cuk/share-it-backend)                                                         | 종합설계프로젝트1 수업 수행 프로젝트 |
+| SNS 기반 목표 달성 서비스 <br> 하루로그 프로젝트          | 2024.01 ~ 2024.02 | Backend Engineer, <br> Team Leader | [Server](https://github.com/Haru-Log/harulog_server_dev) <br> [K8S](https://github.com/Haru-Log/dkos_deployment_ops) | Kakao 기업 연계 프로젝트     |
+| Web IDE 기반 알고리즘 문제 풀이 서비스 <br> 코드진스 프로젝트 | 2023.12 ~ 2023.12 | Backend Engineer, <br> Team Leader | [Server](https://github.com/GoormJeans/WebIDE_Backend)                                                             |                      |
 
+<br>
 
 ## 🔥 Activities
 | 활동명                        | 기간                | 비고                            |
@@ -37,11 +53,15 @@
 | **Dev Team Blossom**       | 2024.03 ~ 2024.06 | Backend Engineer, Team Leader |
 | **[구름x인프런] 풀스택 개발자 성장 과정** | 2023.08 ~ 2024.02 | Kakao 기업 연계 프로젝트 수행           |
 
+<br>
+
 ## 📝 Certificates
 | 자격명                     | 취득 날짜      |
 |-------------------------|------------|
 | **SQLD(SQL Developer)** | 2024.09.20 |
 | **정보처리기사**              | 2024.06.18 |
+
+<br>
 
 ## 🛠️ Skills
 
