@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Keon&fontSize=70&fontAlignY=40" />
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lune0410k)](https://solved.ac/lune0410k)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lune0410k)](https://solved.ac/lune0410k) ![devkeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkeon&show_icons=true&theme=ambient_gradient)
+
 
 ## 🚀 Interested in
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /> <img src="https://img.shields.io/badge/apachespark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" /> <img src="https://img.shields.io/badge/gRPC-2596BE?style=for-the-badge&logo=gRPC&logoColor=white" /> 
