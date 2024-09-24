@@ -14,6 +14,7 @@
 
 [//]: # (5. [Skills &#40;기술 스택&#41;]&#40;#-skills&#41;)
 
+
 ## 🦁 About me
 > 안녕하세요. 컴퓨터정보공학을 전공하고 있는 **소프트웨어 엔지니어 이 건** 입니다.   
 > **Back-end Engineering**과 **Data Engineering**에 관심이 많습니다.   
@@ -58,6 +59,11 @@
 <br>
 
 ## 📝 Certifications
+
+[//]: # (- SQLD &#40;SQL Developer&#41;)
+
+[//]: # (- 정보처리기사)
+
 | 자격명                     | 취득 날짜      |
 |-------------------------|------------|
 | **SQLD(SQL Developer)** | 2024.09.20 |
@@ -76,21 +82,17 @@
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
 
 ### ☁️ Infra
 <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
 
 ### 🔧 Tools
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> 
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 
 
 ### 🌸 Frontend
@@ -110,7 +112,6 @@
 <img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/apachespark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" />
 
 </div>
