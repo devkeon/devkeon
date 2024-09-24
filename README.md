@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:81F7F3,100:E6E6E6&height=175&section=header&text=Keon&fontSize=70&fontAlignY=40&fontColor=424242" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:81F7F3,100:E6E6E6&height=135&section=header&text=Software Engineer Keon&fontSize=50&fontAlignY=40&fontColor=424242" />
 
 <div align="start">
 
@@ -15,17 +15,17 @@
 [//]: # (5. [Skills &#40;기술 스택&#41;]&#40;#-skills&#41;)
 
 ## 🦁 About me
-> 안녕하세요. 컴퓨터정보공학을 전공하고 있는 **소프트웨어 개발자 이 건** 입니다.   
+> 안녕하세요. 컴퓨터정보공학을 전공하고 있는 **소프트웨어 엔지니어 이 건** 입니다.   
 > **Back-end Engineering**과 **Data Engineering**에 관심이 많습니다.   
 > 의견을 나누고 좋은 코드를 만들어 나가는 것을 즐깁니다.
 
-> Hello, I'm **Keon Lee**, a software developer majoring in Computer Science And Information Engineering.    
+> Hello, I'm **Keon Lee**, a Software Engineer majoring in Computer Science And Information Engineering.    
 > I'm interested in **Back-end Engineering** and **Data Engineering**.   
 > I enjoy sharing opinions and making good codes.
 
-</div>
-
 <br>
+
+</div>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lune0410k)](https://solved.ac/lune0410k) 
 ![devkeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkeon&show_icons=true&hide=stars&border_radius=9&title_color=424242&bg_color=E6E6E6)
