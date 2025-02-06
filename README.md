@@ -1,44 +1,33 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:81F7F3,100:E6E6E6&height=135&section=header&text=Software%20Developer%20Keon&fontSize=50&fontAlignY=40&fontColor=424242" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2FB7E5,100:1428A0&height=150&section=header&text=Software%20Engineer%20Keon&fontSize=50&fontAlignY=35&fontColor=FFFFFF"/>
 
 <div align="center">
 
-[//]: # (1. [About me &#40;소개&#41;]&#40;#-about-me&#41;)
-
-[//]: # (2. [Projects &#40;프로젝트 수행 내역&#41;]&#40;#-projects&#41;)
-
-[//]: # (3. [Activities &#40;활동 내역&#41;]&#40;#-activities&#41;)
-
-[//]: # (4. [Certificates &#40;자격 사항&#41;]&#40;#-certificates&#41;)
-
-[//]: # (5. [Skills &#40;기술 스택&#41;]&#40;#-skills&#41;)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lune0410k)](https://solved.ac/lune0410k)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devxeon)](https://solved.ac/devxeon)
 ![devkeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkeon&show_icons=true&hide=stars&border_radius=9&title_color=424242&bg_color=E6E6E6)
 
 </div>
 <div align="start">
 
 ## 🦁 About me
-> Hello, I'm **Keon Lee**, a Software Engineer majoring in Computer Science & Information Engineering.    
-> I'm interested in **Backend Engineering** and **Data Engineering**.   
-> I enjoy sharing opinions and making good codes.
+> Hello, I'm **Keon Lee**, a Software Engineer interested in **Backend Engineering** and **Data Engineering**.
+
 
 
 ## ⭐️ Activities
-- ```2024.08 - 2024.12``` **대학생IT경영학회 KUSITMS 30th** &nbsp; \<Backend> 
-- ```2024.03 - 2024.12``` **멋쟁이사자처럼 12th** &nbsp; \<Backend> 
-- ```2024.03 - 2024.05``` **Dev Team Blossom** &nbsp; \<Leader/Backend> 
-- ```2023.08 - 2024.02``` **[구름x인프런] 풀스택 개발자 성장과정** 
+- ```2024.08 - 2024.12``` Korean University Students IT, Management Society KUSITMS 30th &nbsp; \<Backend> 
+- ```2024.03 - 2024.12``` LIKELION Univ. 12th &nbsp; \<Backend> 
+- ```2024.03 - 2024.05``` Dev Team Blossom &nbsp; \<Leader/Backend> 
+- ```2023.08 - 2024.02``` [©Goorm x Inflearn\] Full-stack developer training course
 
 ## ☁️ Projects
-- ```2024.09 - 2024.12``` **클래식 감상 서비스 [Claco](https://github.com/Curate-Me/claco-server)** &nbsp; \<Backend, Dev Leader>
-- ```2024.08 - 2024.09``` **[SK텔레콤(주) DEVOCEAN](https://github.com/KUSITMS-DEVOCEAN/Readme) 개선** &nbsp; \<Backend>
-- ```2024.07 - 2024.12``` **산책 기록 서비스 [Gummy Dang](https://github.com/devkeon/gummy-dang)** &nbsp; \<Backend, Team Leader>
-- ```2024.05 - 2024.06``` **날씨 제공 할일 서비스 [TODO](https://github.com/devkeon/todo-project)** &nbsp; \<Full Stack>
-- ```2024.04 - 2024.06``` **원격 줄서기 서비스 [Line-up](https://github.com/Team-Blossom-devs/line-up-backend)** &nbsp; \<Backend, Team Leader>
-- ```2024.03 - 2024.06``` **교내 중고 물품 대여 서비스 [쉐어릿](https://github.com/share-it-cuk/share-it-backend)** &nbsp; \<Backend>
-- ```2024.01 - 2024.02``` **SNS 기반 목표 달성 서비스 [(주)카카오 기업 연계 Haru-Log](https://github.com/Haru-Log/harulog_server_dev)** &nbsp; \<Backend, Team Leader>
-- ```2023.12 - 2023.12``` **Web IDE 기반 알고리즘 풀이 서비스 [Code Jeans](https://github.com/GoormJeans/WebIDE_Backend)** &nbsp; \<Backend, Team Leader>
+- ```2024.09 - 2024.12``` Classic curation service [Claco](https://github.com/Curate-Me/claco-server) &nbsp; \<Backend, Dev Leader>
+- ```2024.08 - 2024.09``` **ⓒSK Telecom Co., Ltd.** [DEVOCEAN](https://github.com/KUSITMS-DEVOCEAN/Readme) improvement &nbsp; \<Backend>
+- ```2024.07 - 2024.12``` Walk recording service [Gummy Dang](https://github.com/devkeon/gummy-dang) &nbsp; \<Backend, Team Leader>
+- ```2024.05 - 2024.06``` Todo service with WeatherAPI [TODO](https://github.com/devkeon/todo-project) &nbsp; \<Full Stack>
+- ```2024.04 - 2024.06``` Remote queueing service [Line-up](https://github.com/Team-Blossom-devs/line-up-backend) &nbsp; \<Backend, Team Leader>
+- ```2024.03 - 2024.06``` On-campus used rental service [Share-it](https://github.com/share-it-cuk/share-it-backend) &nbsp; \<Backend>
+- ```2024.01 - 2024.02``` **©Kakao Corp.** SNS-based goal achievement service [Haru-Log](https://github.com/Haru-Log/harulog_server_dev) &nbsp; \<Backend, Team Leader>
+- ```2023.12 - 2023.12``` Web IDE-based problem solve service [Code Jeans](https://github.com/GoormJeans/WebIDE_Backend) &nbsp; \<Backend, Team Leader>
 
 ## 🛠️ Skills
 
