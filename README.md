@@ -11,23 +11,24 @@
 ## 🦁 About me
 > Hello, I'm **Keon Lee**, a Software Engineer interested in **Backend Engineering** and **Data Engineering**.
 
-
+## 🚀️ Careers
+- ```2025.02 -``` Samsung Electronics DS Division AI Center Software Engineer
 
 ## ⭐️ Activities
 - ```2024.08 - 2024.12``` Korean University Students IT, Management Society KUSITMS 30th &nbsp; \<Backend> 
 - ```2024.03 - 2024.12``` LIKELION Univ. 12th &nbsp; \<Backend> 
 - ```2024.03 - 2024.05``` Dev Team Blossom &nbsp; \<Leader/Backend> 
-- ```2023.08 - 2024.02``` [©Goorm x Inflearn\] Full-stack developer training course
+- ```2023.08 - 2024.02``` \[**goorm Inc.** x Inflearn\] Full-stack developer training course
 
 ## ☁️ Projects
 - ```2024.09 - 2024.12``` Classic curation service [Claco](https://github.com/Curate-Me/claco-server) &nbsp; \<Backend, Dev Leader>
-- ```2024.08 - 2024.09``` **ⓒSK Telecom Co., Ltd.** [DEVOCEAN](https://github.com/KUSITMS-DEVOCEAN/Readme) improvement &nbsp; \<Backend>
-- ```2024.07 - 2024.12``` Walk recording service [Gummy Dang](https://github.com/devkeon/gummy-dang) &nbsp; \<Backend, Team Leader>
+- ```2024.08 - 2024.09``` **SK Telecom Co., Ltd.** [DEVOCEAN](https://github.com/KUSITMS-DEVOCEAN/Readme) improvement &nbsp; \<Backend>
+- ```2024.07 - 2024.12``` Walk record service [Gummy Dang](https://github.com/devkeon/gummy-dang) &nbsp; \<Backend, Team Leader>
 - ```2024.05 - 2024.06``` Todo service with WeatherAPI [TODO](https://github.com/devkeon/todo-project) &nbsp; \<Full Stack>
 - ```2024.04 - 2024.06``` Remote queueing service [Line-up](https://github.com/Team-Blossom-devs/line-up-backend) &nbsp; \<Backend, Team Leader>
 - ```2024.03 - 2024.06``` On-campus used rental service [Share-it](https://github.com/share-it-cuk/share-it-backend) &nbsp; \<Backend>
-- ```2024.01 - 2024.02``` **©Kakao Corp.** SNS-based goal achievement service [Haru-Log](https://github.com/Haru-Log/harulog_server_dev) &nbsp; \<Backend, Team Leader>
-- ```2023.12 - 2023.12``` Web IDE-based problem solve service [Code Jeans](https://github.com/GoormJeans/WebIDE_Backend) &nbsp; \<Backend, Team Leader>
+- ```2024.01 - 2024.02``` **Kakao Corp.** linkage project, SNS-based goal achievement service [Haru-Log](https://github.com/Haru-Log/harulog_server_dev) &nbsp; \<Backend, Team Leader>
+- ```2023.12 - 2023.12``` IDE-based problem solve service [Code Jeans](https://github.com/GoormJeans/WebIDE_Backend) &nbsp; \<Backend, Team Leader>
 
 ## 🛠️ Skills
 
