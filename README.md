@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devxeon)](https://solved.ac/devxeon)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lune0410k)](https://solved.ac/lune0410k)
 ![devkeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkeon&show_icons=true&hide=stars&border_radius=9&title_color=424242&bg_color=E6E6E6)
 
 </div>
